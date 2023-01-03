@@ -1,6 +1,6 @@
 # eXpand
 
-# Code snipnet for expanding 3d surfaces to a 2d projection
+# Code snippet for expanding 3d surfaces to a 2d projection
 
 
 - maybe useful for building models of complicated 3d forms by folding 2d papers/ foamboards or cardboards.
